@@ -3,7 +3,6 @@
 Welcome to the official website of the ANTARES workshop that will take place at the _The 9th International Conference on Information, Intelligence, Systems and Applications_ 23 - 25 July, 2018 Zakynthos, Greece.
  
 
-```
 ### Backgrounds and goals
 
 Internet of Things (IoT) is the general trend of upgrading
@@ -20,8 +19,6 @@ after four or eight hours of sleep. Although these data might
 sound meaningless to collect and process, they may in fact
 be of tremendous value to insurance companies and medical
 researchers alike.
-
-```
 
 ```
 ### Topics of Interest
