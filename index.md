@@ -1,6 +1,8 @@
 ## Welcome to the ANTARES - IoT workshop homepage 
 
-Welcome to the official website of the ANTARES workshop that will take place at the _The 9th International Conference on Information, Intelligence, Systems and Applications_ 23 - 25 July, 2018 Zakynthos, Greece.
+Welcome to the official website of the **ANTARES** workshop that will take place at the _**The 9th International Conference on Information, Intelligence, Systems and Applications 23 - 25 July, 2018 Zakynthos, Greece**_. 
+![iisa Logo](http://iisa2017.unipi.gr/wp-content/uploads/2016/11/iisa_logo_3d-150x150.png)
+Format: ![Alt Text](url)
  
 
 ### Backgrounds and goals
@@ -24,5 +26,7 @@ The list of topics will include but will not be limited to:
 - Device material and technology
 - Deep and distributed learning for IoT
 ```
+### Submit 
+
 ### Contact
 
