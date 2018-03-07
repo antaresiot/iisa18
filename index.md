@@ -1,4 +1,4 @@
-## Welcome to the ANTARES workshop
+## Welcome to the ANTARES - IoT workshop homepage 
 
 You can use submit 
 
