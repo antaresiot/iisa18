@@ -1,9 +1,7 @@
 ---
+Title: Contact Information | ANTARES
 layout: default
-Title: Contact Information
 ---
-
-#### Contact us
 
 [Official Conference Website](iisa2018.unipi.gr/antares)
 

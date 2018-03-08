@@ -1,8 +1,7 @@
 ---
+Title: Topics of Interest | ANTARES
 layout: default
-Title: Topics of Interest
 ---
-#### Topics of Interest
 
 The list of **topics** will include but will not be limited to:
 ```

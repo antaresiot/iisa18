@@ -1,8 +1,7 @@
 ---
-title: Paper Submission and Guidelines
+title: Paper Submission and Guidelines | ANTARES
 layout: default
 ---
-#### Call for papers
 
 **Please submit your paper at the following [link](iisa2018.unipi.gr/antares).**
 

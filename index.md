@@ -2,7 +2,7 @@ Welcome to the official website of the **ANTARES** workshop that will take place
 
 ![iisa Logo](http://iisa2017.unipi.gr/wp-content/uploads/2016/11/iisa_logo_3d-150x150.png)
 
-### [Backgrounds and goals](http://antaresiot.github.io/iisa18/background)
+### [Background and goals](http://antaresiot.github.io/iisa18/background)
 
 ### [Topics of Interest](http://antaresiot.github.io/iisa18/toi)
 
