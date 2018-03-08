@@ -1,5 +1,5 @@
 ---
-Title: Topics of Interest | ANTARES
+title: Topics of Interest | ANTARES
 layout: default
 ---
 

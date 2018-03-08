@@ -1,5 +1,5 @@
 ---
-Title: Contact Information | ANTARES
+title: Contact Information | ANTARES
 layout: default
 ---
 
