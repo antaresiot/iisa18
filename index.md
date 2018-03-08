@@ -1,4 +1,7 @@
-## ANTARES: Theory And Practice Of IoT
+----
+title: ANTARES: Theory And Practice Of IoT
+layout: default
+---
 
 Welcome to the official website of the **ANTARES** workshop that will take place at the _**The 9th International Conference on Information, Intelligence, Systems and Applications 23 - 25 July, 2018 Zakynthos, Greece**_. 
 
@@ -28,7 +31,8 @@ The list of topics will include but will not be limited to:
 - Deep and distributed learning for IoT
 ```
 
-### Call for Papers
+[### Call for Papers](https://antaresiot.github.io/iisa18/papers.html)
+[### Call for Papers](https://antaresiot.github.io/iisa18/papers)
 
 ### Important Dates
 
@@ -38,5 +42,4 @@ The list of topics will include but will not be limited to:
 
 ### Instruction for Authors
 
-### Contact
-iisa2018.unipi.gr/antares
+[### Contact](https://antaresiot.github.io/iisa18/papers)

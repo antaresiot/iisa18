@@ -1,10 +1,13 @@
 ---
 layout: default
+Title: Contact Information
+description:  
 ---
 
 ### Contact us
 
-iisa2018.unipi.gr/antares
-[em@il-1](c16vout@ionio.gr)
+[Official Website](iisa2018.unipi.gr/antares)
+
+[em@il-1](email: c16vout@ionio.gr)
 
 [back](./)
