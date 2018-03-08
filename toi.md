@@ -1,11 +1,9 @@
 ---
 layout: default
 Title: Topics of Interest
-description:  
 ---
 
-Topics of Interest
-The list of topics will include but will not be limited to:
+The list of **topics** will include but will not be limited to:
 ```
 - IoT industrial applications
 - Smart cities and smart infrastructures
