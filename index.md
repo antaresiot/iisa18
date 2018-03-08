@@ -2,8 +2,7 @@
 
 Welcome to the official website of the **ANTARES** workshop that will take place at the _**The 9th International Conference on Information, Intelligence, Systems and Applications 23 - 25 July, 2018 Zakynthos, Greece**_. 
 
-![[iisa Logo](http://iisa2017.unipi.gr/wp-content/uploads/2016/11/iisa_logo_3d-150x150.png)](iisa2018.unipi.gr)
-
+![iisa Logo](http://iisa2017.unipi.gr/wp-content/uploads/2016/11/iisa_logo_3d-150x150.png)
 
 ### Backgrounds and goals
 
@@ -26,7 +25,17 @@ The list of topics will include but will not be limited to:
 - Device material and technology
 - Deep and distributed learning for IoT
 ```
-### Submit 
+[Detailed Description](http://iisa2018.unipi.gr/wp-content/uploads/2018/03/iot_iisa_2018.pdf)
+
+### Call for Papers
+
+### Important Dates
+
+### Chairs
+
+### Program Committee
+
+### Instruction for Authors
 
 ### Contact
 iisa2018.unipi.gr/antares
