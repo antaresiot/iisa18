@@ -31,8 +31,7 @@ The list of topics will include but will not be limited to:
 - Deep and distributed learning for IoT
 ```
 
-[### Call for Papers](https://antaresiot.github.io/iisa18/papers.html)
-[### Call for Papers](https://antaresiot.github.io/iisa18/papers)
+### [Call for Papers](https://antaresiot.github.io/iisa18/papers)
 
 ### Important Dates
 
@@ -42,4 +41,4 @@ The list of topics will include but will not be limited to:
 
 ### Instruction for Authors
 
-[### Contact](https://antaresiot.github.io/iisa18/papers)
+### [Contact](https://antaresiot.github.io/iisa18/contact)
