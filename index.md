@@ -1,4 +1,6 @@
-## Welcome to the ANTARES - IoT workshop homepage 
+## ANTARES: Theory And Practice Of IoT
+### Welcome to the ANTARES - IoT workshop homepage 
+
 
 Welcome to the official website of the **ANTARES** workshop that will take place at the _**The 9th International Conference on Information, Intelligence, Systems and Applications 23 - 25 July, 2018 Zakynthos, Greece**_. 
 
