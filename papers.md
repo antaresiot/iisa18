@@ -10,10 +10,10 @@ Please follow the 	steps bellow:
 2.	**Verify** your email.
 	An email will be sent to you after account creation, click the link inside to confirm. Check your spam folder if you have not received it within a few minutes.
 
-**SUBMISSION**
+**SUBMISSION procedure**
 
 1.	**Log in**
-	Visit [easyacademia.org/iisa2018]{www.easyacademia.org/iisa2018}, and log in using the details provided during account creation.
+	Visit [easyacademia.org/iisa2018](www.easyacademia.org/iisa2018), and log in using the details provided during account creation.
  2.	**Start** a submission
 	Click on Start a new submission on the top right to enter the submission process.
 3.	**Track**
