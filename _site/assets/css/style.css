@@ -712,16 +712,7 @@ header {
     line-height: 14px;
     font-size: 14px;
     background-color: #FFE788; }
-  #banner .downloads {
-    float: right;
-    margin: 0 45px 0 0; }
-    #banner .downloads span {
-      float: left;
-      line-height: 52px;
-      font-size: 90%;
-      color: #9d7f0d;
-      text-transform: uppercase;
-      text-shadow: rgba(255, 255, 255, 0.2) 0 1px 0; }
+
   #banner ul {
     list-style: none;
     height: 40px;
@@ -808,12 +799,7 @@ footer {
       -o-text-overflow: ellipsis;
       -ms-text-overflow: ellipsis; }
 
-  #banner {
-    width: 100%; }
-    #banner .downloads {
-      margin-right: 60px; }
-    #banner #logo {
-      margin-right: 15px; }
+
 
   section {
     border: 1px solid #e5e5e5;
